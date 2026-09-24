@@ -5,3 +5,5 @@ STM32 microcontroller training examples, merged from individual repos into subfo
 - [`stm32f103c8t6/`](./stm32f103c8t6)
 - [`stm32f407vet6/`](./stm32f407vet6)
 - [`stm32f411ceu6/`](./stm32f411ceu6)
+- [`nucleo-f746zg/`](./nucleo-f746zg)
+- [`nucleo-l476rg/`](./nucleo-l476rg)
